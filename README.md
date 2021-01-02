@@ -1,2 +1,2 @@
-# seleksidumbways
+# seleksiDumbways
 - mengerjakan menggunakan javascript
